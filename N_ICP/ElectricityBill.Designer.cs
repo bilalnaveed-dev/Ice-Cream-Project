@@ -1,0 +1,244 @@
+﻿
+namespace N_ICP
+{
+    partial class ElectricityBill
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.month_dateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.year_dateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.date_dateTimePicker = new System.Windows.Forms.DateTimePicker();
+            this.id_txt = new System.Windows.Forms.TextBox();
+            this.rent_txt = new System.Windows.Forms.TextBox();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.dataGridView = new System.Windows.Forms.DataGridView();
+            this.clear_btn = new System.Windows.Forms.Button();
+            this.add_btn = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // month_dateTimePicker
+            // 
+            this.month_dateTimePicker.CustomFormat = "MM";
+            this.month_dateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.month_dateTimePicker.Location = new System.Drawing.Point(106, 427);
+            this.month_dateTimePicker.Name = "month_dateTimePicker";
+            this.month_dateTimePicker.Size = new System.Drawing.Size(229, 24);
+            this.month_dateTimePicker.TabIndex = 3;
+            // 
+            // year_dateTimePicker
+            // 
+            this.year_dateTimePicker.CustomFormat = "yyyy";
+            this.year_dateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.year_dateTimePicker.Location = new System.Drawing.Point(106, 473);
+            this.year_dateTimePicker.Name = "year_dateTimePicker";
+            this.year_dateTimePicker.Size = new System.Drawing.Size(229, 24);
+            this.year_dateTimePicker.TabIndex = 4;
+            // 
+            // date_dateTimePicker
+            // 
+            this.date_dateTimePicker.CustomFormat = "dd";
+            this.date_dateTimePicker.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.date_dateTimePicker.Location = new System.Drawing.Point(106, 382);
+            this.date_dateTimePicker.Name = "date_dateTimePicker";
+            this.date_dateTimePicker.Size = new System.Drawing.Size(229, 24);
+            this.date_dateTimePicker.TabIndex = 2;
+            // 
+            // id_txt
+            // 
+            this.id_txt.Location = new System.Drawing.Point(106, 290);
+            this.id_txt.Name = "id_txt";
+            this.id_txt.Size = new System.Drawing.Size(229, 24);
+            this.id_txt.TabIndex = 0;
+            // 
+            // rent_txt
+            // 
+            this.rent_txt.Location = new System.Drawing.Point(106, 337);
+            this.rent_txt.Name = "rent_txt";
+            this.rent_txt.Size = new System.Drawing.Size(229, 24);
+            this.rent_txt.TabIndex = 1;
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(27, 427);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(51, 19);
+            this.label13.TabIndex = 125;
+            this.label13.Text = "Motnh";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(27, 473);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(38, 19);
+            this.label14.TabIndex = 124;
+            this.label14.Text = "Year";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(27, 382);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(39, 19);
+            this.label12.TabIndex = 126;
+            this.label12.Text = "Date";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(27, 293);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(24, 19);
+            this.label6.TabIndex = 123;
+            this.label6.Text = "ID";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(27, 340);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(38, 19);
+            this.label11.TabIndex = 122;
+            this.label11.Text = "Rent";
+            // 
+            // dataGridView
+            // 
+            this.dataGridView.AllowUserToAddRows = false;
+            this.dataGridView.AllowUserToDeleteRows = false;
+            this.dataGridView.AllowUserToResizeColumns = false;
+            this.dataGridView.AllowUserToResizeRows = false;
+            this.dataGridView.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Sitka Small", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            this.dataGridView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Sitka Small", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView.DefaultCellStyle = dataGridViewCellStyle2;
+            this.dataGridView.Location = new System.Drawing.Point(342, 158);
+            this.dataGridView.Margin = new System.Windows.Forms.Padding(4);
+            this.dataGridView.Name = "dataGridView";
+            this.dataGridView.ReadOnly = true;
+            this.dataGridView.RowHeadersWidth = 51;
+            this.dataGridView.Size = new System.Drawing.Size(825, 500);
+            this.dataGridView.TabIndex = 119;
+            // 
+            // clear_btn
+            // 
+            this.clear_btn.Location = new System.Drawing.Point(202, 665);
+            this.clear_btn.Name = "clear_btn";
+            this.clear_btn.Size = new System.Drawing.Size(133, 40);
+            this.clear_btn.TabIndex = 6;
+            this.clear_btn.Text = "Clear";
+            this.clear_btn.UseVisualStyleBackColor = true;
+            this.clear_btn.Click += new System.EventHandler(this.clear_btn_Click);
+            // 
+            // add_btn
+            // 
+            this.add_btn.Location = new System.Drawing.Point(12, 665);
+            this.add_btn.Name = "add_btn";
+            this.add_btn.Size = new System.Drawing.Size(133, 40);
+            this.add_btn.TabIndex = 5;
+            this.add_btn.Text = "Add";
+            this.add_btn.UseVisualStyleBackColor = true;
+            this.add_btn.Click += new System.EventHandler(this.add_btn_Click);
+            // 
+            // ElectricityBill
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 19F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1180, 717);
+            this.Controls.Add(this.month_dateTimePicker);
+            this.Controls.Add(this.year_dateTimePicker);
+            this.Controls.Add(this.date_dateTimePicker);
+            this.Controls.Add(this.id_txt);
+            this.Controls.Add(this.rent_txt);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.dataGridView);
+            this.Controls.Add(this.clear_btn);
+            this.Controls.Add(this.add_btn);
+            this.Name = "ElectricityBill";
+            this.Text = "ElectricityBill";
+            this.Load += new System.EventHandler(this.ElectricityBill_Load);
+            this.Controls.SetChildIndex(this.add_btn, 0);
+            this.Controls.SetChildIndex(this.clear_btn, 0);
+            this.Controls.SetChildIndex(this.dataGridView, 0);
+            this.Controls.SetChildIndex(this.label11, 0);
+            this.Controls.SetChildIndex(this.label6, 0);
+            this.Controls.SetChildIndex(this.label12, 0);
+            this.Controls.SetChildIndex(this.label14, 0);
+            this.Controls.SetChildIndex(this.label13, 0);
+            this.Controls.SetChildIndex(this.rent_txt, 0);
+            this.Controls.SetChildIndex(this.id_txt, 0);
+            this.Controls.SetChildIndex(this.date_dateTimePicker, 0);
+            this.Controls.SetChildIndex(this.year_dateTimePicker, 0);
+            this.Controls.SetChildIndex(this.month_dateTimePicker, 0);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.DateTimePicker month_dateTimePicker;
+        private System.Windows.Forms.DateTimePicker year_dateTimePicker;
+        private System.Windows.Forms.DateTimePicker date_dateTimePicker;
+        private System.Windows.Forms.TextBox id_txt;
+        private System.Windows.Forms.TextBox rent_txt;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.DataGridView dataGridView;
+        private System.Windows.Forms.Button clear_btn;
+        private System.Windows.Forms.Button add_btn;
+    }
+}

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\ProductFlavour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\ProductFlavour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\StockBill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\StockBill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\ProductCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\ProductCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\OrderStock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\OrderStock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\EmployeeEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\EmployeeEntry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\EmployeeContact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\EmployeeContact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorProfessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\DistributorProfessional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorPersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\DistributorPersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorContact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\DistributorContact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:N_ICP\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StockBill.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\StockBill.cs",
+              "RelativeDocumentMoniker": "N_ICP\\StockBill.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\StockBill.cs",
+              "RelativeToolTip": "N_ICP\\StockBill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:56:53.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductFlavour.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\ProductFlavour.cs",
+              "RelativeDocumentMoniker": "N_ICP\\ProductFlavour.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\ProductFlavour.cs",
+              "RelativeToolTip": "N_ICP\\ProductFlavour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:56:41.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "N_ICP\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\ProductCategory.cs",
+              "RelativeToolTip": "N_ICP\\ProductCategory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:54:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderStock.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\OrderStock.cs",
+              "RelativeDocumentMoniker": "N_ICP\\OrderStock.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\OrderStock.cs",
+              "RelativeToolTip": "N_ICP\\OrderStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:53:55.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeEntry.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\EmployeeEntry.cs",
+              "RelativeDocumentMoniker": "N_ICP\\EmployeeEntry.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\EmployeeEntry.cs",
+              "RelativeToolTip": "N_ICP\\EmployeeEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:53:06.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeContact.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\EmployeeContact.cs",
+              "RelativeDocumentMoniker": "N_ICP\\EmployeeContact.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\EmployeeContact.cs",
+              "RelativeToolTip": "N_ICP\\EmployeeContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:52:45.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DistributorProfessional.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorProfessional.cs",
+              "RelativeDocumentMoniker": "N_ICP\\DistributorProfessional.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorProfessional.cs",
+              "RelativeToolTip": "N_ICP\\DistributorProfessional.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:51:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DistributorPersonal.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorPersonal.cs",
+              "RelativeDocumentMoniker": "N_ICP\\DistributorPersonal.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorPersonal.cs",
+              "RelativeToolTip": "N_ICP\\DistributorPersonal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:51:39.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\Login.cs",
+              "RelativeDocumentMoniker": "N_ICP\\Login.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\Login.cs",
+              "RelativeToolTip": "N_ICP\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:33:30.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DistributorContact.cs",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorContact.cs",
+              "RelativeDocumentMoniker": "N_ICP\\DistributorContact.cs",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\DistributorContact.cs",
+              "RelativeToolTip": "N_ICP\\DistributorContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:50:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\App.config",
+              "RelativeDocumentMoniker": "N_ICP\\App.config",
+              "ToolTip": "C:\\Users\\bilal\\OneDrive\\Documents\\Projects\\Ice Cream Project\\N_ICP\\App.config",
+              "RelativeToolTip": "N_ICP\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-20T07:39:18.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

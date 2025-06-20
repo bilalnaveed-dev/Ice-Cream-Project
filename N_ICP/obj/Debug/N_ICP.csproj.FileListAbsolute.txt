@@ -1,0 +1,288 @@
+D:\Visual Studio 2019\N_ICP\bin\Debug\N_ICP.exe.config
+D:\Visual Studio 2019\N_ICP\bin\Debug\N_ICP.exe
+D:\Visual Studio 2019\N_ICP\bin\Debug\N_ICP.pdb
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.exe
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.pdb
+D:\Visual Studio 2019\N_ICP\bin\Debug\myicedb.mdf
+D:\Visual Studio 2019\N_ICP\bin\Debug\myicedb_log.ldf
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.MainForm.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.Login.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.AddStock.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.Rent.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.StockBill.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.Privileges.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+D:\Visual Studio 2019\N_ICP\obj\Debug\N_ICP.csprojAssemblyReference.cache
+C:\Users\mianmawaisarain\Desktop\N_ICP\bin\Debug\myicedb.mdf
+C:\Users\mianmawaisarain\Desktop\N_ICP\bin\Debug\myicedb_log.ldf
+C:\Users\mianmawaisarain\Desktop\N_ICP\bin\Debug\N_ICP.exe.config
+C:\Users\mianmawaisarain\Desktop\N_ICP\bin\Debug\N_ICP.exe
+C:\Users\mianmawaisarain\Desktop\N_ICP\bin\Debug\N_ICP.pdb
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.csproj.AssemblyReference.cache
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.AddStock.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.Login.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.MainForm.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.Privileges.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.Rent.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.StockBill.resources
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.exe
+C:\Users\mianmawaisarain\Desktop\N_ICP\obj\Debug\N_ICP.pdb
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\bin\Debug\myicedb.mdf
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\bin\Debug\myicedb_log.ldf
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\bin\Debug\N_ICP.exe.config
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\bin\Debug\N_ICP.exe
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\bin\Debug\N_ICP.pdb
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.csproj.AssemblyReference.cache
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.AddStock.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Login.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.MainForm.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Privileges.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Rent.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.StockBill.resources
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.exe
+C:\Users\mianmawaisarain\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.pdb
+C:\Users\hp\OneDrive\Desktop\N_ICP\bin\Debug\myicedb.mdf
+C:\Users\hp\OneDrive\Desktop\N_ICP\bin\Debug\myicedb_log.ldf
+C:\Users\hp\OneDrive\Desktop\N_ICP\bin\Debug\N_ICP.exe.config
+C:\Users\hp\OneDrive\Desktop\N_ICP\bin\Debug\N_ICP.exe
+C:\Users\hp\OneDrive\Desktop\N_ICP\bin\Debug\N_ICP.pdb
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.AddStock.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Login.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.MainForm.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Privileges.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.Rent.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.StockBill.resources
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.exe
+C:\Users\hp\OneDrive\Desktop\N_ICP\obj\Debug\N_ICP.pdb
+D:\Backup\N_ICP\bin\Debug\myicedb.mdf
+D:\Backup\N_ICP\bin\Debug\myicedb_log.ldf
+D:\Backup\N_ICP\bin\Debug\N_ICP.exe.config
+D:\Backup\N_ICP\bin\Debug\N_ICP.exe
+D:\Backup\N_ICP\bin\Debug\N_ICP.pdb
+D:\Backup\N_ICP\obj\Debug\N_ICP.csproj.AssemblyReference.cache
+D:\Backup\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.AddStock.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.Login.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.MainForm.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.Privileges.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.Rent.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.StockBill.resources
+D:\Backup\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+D:\Backup\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+D:\Backup\N_ICP\obj\Debug\N_ICP.exe
+D:\Backup\N_ICP\obj\Debug\N_ICP.pdb
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\bin\Debug\myicedb.mdf
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\bin\Debug\myicedb_log.ldf
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\bin\Debug\N_ICP.exe.config
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\bin\Debug\N_ICP.exe
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\bin\Debug\N_ICP.pdb
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.csproj.AssemblyReference.cache
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.AddStock.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Login.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.MainForm.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Privileges.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Rent.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.StockBill.resources
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.exe
+D:\4th Semester\Advance Database Lab\Ice Cream Project\N_ICP\obj\Debug\N_ICP.pdb
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.csproj.AssemblyReference.cache
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.exe.config
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.exe
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.pdb
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.AddStock.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Login.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.MainForm.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Privileges.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.Rent.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.StockBill.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\myicedb.mdf
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\myicedb_log.ldf
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\N_ICP.exe.config
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\N_ICP.exe
+C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\N_ICP.pdb
