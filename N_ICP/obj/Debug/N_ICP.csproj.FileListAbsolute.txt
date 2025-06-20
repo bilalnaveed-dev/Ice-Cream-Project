@@ -286,3 +286,45 @@ C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\myi
 C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\N_ICP.exe.config
 C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\N_ICP.exe
 C:\Users\bilal\OneDrive\Documents\Projects\Ice Cream Project\N_ICP\bin\Debug\N_ICP.pdb
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\bin\Debug\myicedb.mdf
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\bin\Debug\myicedb_log.ldf
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\bin\Debug\N_ICP.exe.config
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\bin\Debug\N_ICP.exe
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\bin\Debug\N_ICP.pdb
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.csproj.AssemblyReference.cache
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.exe.config
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.AddCustomer.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.AddCustomerOrder.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.AddStock.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.CheckOrder.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.CurrentStock.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.CustomerFeedBack.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.CustomerOrderDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.DiscountDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.DistributorContact.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.DistributorPersonal.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.DistributorProfessional.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.ElectricityBill.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.EmployeeContact.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.EmployeeDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.EmployeeDutyTiming.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.EmployeeEntry.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.EmployeeIncome.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.EmployeeIncomeCharges.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.IceCreamParlour.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.Login.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.MainForm.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.MemberDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.OrderStock.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.Privileges.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.ProductCategory.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.ProductFlavour.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.ReceiverDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.Rent.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.RiderDetails.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.StockBill.resources
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.csproj.GenerateResource.cache
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.exe
+C:\Users\bilal\OneDrive\Documents\Projects\Ice-Cream-Project\N_ICP\obj\Debug\N_ICP.pdb
