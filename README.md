@@ -36,12 +36,7 @@ A desktop-based application developed using **C# (Windows Forms)** and **SQL Ser
 3. **Build the project** (`Ctrl+Shift+B`)
 4. Ensure the `myicedb.mdf` database is located in:
 
-      ```
-      swift
-      ```
-
-      CopyEdit
-
+    
       `Ice Cream Project/N_ICP/bin/Debug/`
 5. Run the application using `Ctrl+F5`
 
